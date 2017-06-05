@@ -5,7 +5,7 @@ public class Capacidad {
 	private int persona; /* cantidad de personas*/
 	private int kilosCarga;
 	
-	//constructor1
+	//constructor1 vacio
 	public Capacidad(){
 		
 	}
